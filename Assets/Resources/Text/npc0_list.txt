@@ -1,0 +1,8 @@
+﻿apple,30
+book,70
+bung,60
+choco,20
+gogi,50
+naip,30
+duru,10
+ham,20

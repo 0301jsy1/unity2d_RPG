@@ -1,0 +1,8 @@
+﻿apple,사과 맛남
+book,먹는 책
+bung,힘센 병
+choco,달콤한 초코렛
+gogi,원주민의 고기
+naip,행운의 네잎 클로버
+duru,두루와~^^*
+ham,햄 맛있겠당...

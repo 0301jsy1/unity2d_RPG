@@ -1,0 +1,4 @@
+﻿npc0,5,15,down, 어이~ 안녕! 
+npc1,10,30,down, 기분 좋은 하루 되셈!
+npc2,12,10,down, I Love You!
+npc3,15,18,down, Thank you!
